@@ -1,0 +1,18 @@
+[
+  {
+    "model": "WBM",
+    "licence": "ABC-1"
+  },
+  {
+    "model": "Hoppa",
+    "licence": "XYZ-123"
+  },
+  {
+    "model": "Hoppa",
+    "licence": "DFG-12"
+  },
+  {
+    "model": "Ovlov",
+    "licence": "HIK-2"
+  }
+]
